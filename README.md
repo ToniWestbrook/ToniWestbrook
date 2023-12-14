@@ -17,5 +17,6 @@ Thanks for taking an interest in my projects!  The following are a list of activ
 | ------- | ----------- |
 | [NetPaint](https://github.com/SyntheticDreams/NetPaint) |100% text-only drawing program, compatible with any terminal emulator that supports the mouse, such as PuTTY, Konsole, iTerm2, and many others. |
 | [Whirlwind](https://github.com/SyntheticDreams/whirlwind) |Nintendo Entertainment System (NES) compatible FPGA core |
+| [IntLog](https://github.com/ToniWestbrook/IntLog)) |Monitor and log BIOS and DOS interrupts for debugging 16-bit DOS programs |
 
 
