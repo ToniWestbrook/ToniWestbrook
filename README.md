@@ -20,3 +20,4 @@ Thanks for taking an interest in my projects!  The following are a list of activ
 | [IntLog](https://github.com/ToniWestbrook/IntLog) |Monitor and log BIOS and DOS interrupts for debugging 16-bit DOS programs |
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniWestbrook&theme=tokyonight)
