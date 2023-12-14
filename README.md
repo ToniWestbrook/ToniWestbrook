@@ -1,4 +1,4 @@
-Thanks for taking an interest in my projects! Listed below are my scientific applications developed for work, and a random variety of retrocomputing projects I work on in my spare time.
+Thanks for taking an interest in my projects! Listed below are my scientific applications developed for work and a variety of retrocomputing projects I work on in my spare time.
 
 ✨ I'm currently working on Cloudburst Connection, an RPG adventure game where you run your own dial-up Bulletin Board System (BBS). Add new features, keep your users happy, and explore other boards as a deeper story unfolds. Check [here](http://www.toniwestbrook.com/archives/category/projects/cloudburst-connection) to follow its development!
 
