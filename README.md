@@ -1,5 +1,3 @@
-# Overview of my Github Repositories
-
 Thanks for taking an interest in my projects!  The following are a list of active projects I develop and/or maintain.
 
 ### UNH and Bioinformatics Projects
