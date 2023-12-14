@@ -10,7 +10,6 @@ Thanks for taking an interest in my projects!  The following are a list of activ
 | [Mitobin](https://github.com/ToniWestbrook/mitobin) | Taxonomic classification and read binning of mitochondrial DNA |
 | [ImageJ_Plugins](https://github.com/ToniWestbrook/imagej-plugins) | A collection of plugins for ImageJ/FIJI |
 
-<br />
 
 ### Personal and Synthetic Dreams Projects
 
