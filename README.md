@@ -4,6 +4,7 @@ Thanks for taking an interest in my projects!  The following are a list of activ
 
 | Project | Description |
 | ------- | ----------- |
+| [RepeatFS](https://github.com/ToniWestbrook/repeatfs) | File system providing scientific reproducibility through provenance and automation |
 | [PALADIN](https://github.com/ToniWestbrook/paladin) | Protein sequence alignment tool designed for the accurate functional characterization of metagenomes. |
 | [PALADIN_Plugins](https://github.com/ToniWestbrook/paladin-plugins) | Pipeline plugins for PALADIN, providing HPC support, abundance (taxonomy, go terms), automation, etc. |
 | [Mitobin](https://github.com/ToniWestbrook/mitobin) | Taxonomic classification and read binning of mitochondrial DNA |
