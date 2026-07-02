@@ -18,6 +18,7 @@ Thanks for taking an interest in my projects! Listed below are my scientific app
 | Project | Description |
 | ------- | ----------- |
 | [Shredz64](http://www.toniwestbrook.com/shredz64) |Guitar Hero style game for the Commodore 64 |
+| [Zisa-X](https://github.com/SyntheticDreams/zisa-x) |Novel computer architecture compatible with the Z80 processor and classic 8-bit ISA bus |
 | [NetPaint](https://github.com/SyntheticDreams/NetPaint) |100% text-only drawing program, compatible with any terminal emulator that supports the mouse, such as PuTTY, Konsole, iTerm2, and many others |
 | [Whirlwind](https://github.com/SyntheticDreams/whirlwind) |Nintendo Entertainment System (NES) compatible FPGA core |
 | [IntLog](https://github.com/ToniWestbrook/IntLog) |Monitor and log BIOS and DOS interrupts for debugging 16-bit DOS programs |
